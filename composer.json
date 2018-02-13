@@ -1,0 +1,19 @@
+{
+    "name": "sngft/hello",
+    "description": "miaoshu",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SngFT",
+            "email": "sngft@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
